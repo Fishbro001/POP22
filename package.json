@@ -1,0 +1,11 @@
+{
+  "name": "cmsforonninen",
+  "version": "1.0.0",
+  "description": "By Edgaras Puško",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Edgaras Puško",
+  "license": "ISC"
+}
